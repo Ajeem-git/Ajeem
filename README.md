@@ -1,6 +1,6 @@
 # 💻 About Me
 
-Hello! I'm a **third-year Computer Science Engineering student** with a passion for **Machine Learning**, **Deep Learning**, and **Software Development**. I thrive on solving real-world problems through technology and love participating in **hackathons** to challenge my skills and learn from others.
+Hello! I'm Ajeem Khan,a**third-year Computer Science Engineering student** with a passion for **Machine Learning**, **Deep Learning**, and **Software Development**. I thrive on solving real-world problems through technology and love participating in **hackathons** to challenge my skills and learn from others.
 
 ---
 
