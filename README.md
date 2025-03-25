@@ -30,4 +30,4 @@ Hello! I'm Ajeem Khan,a**third-year Computer Science Engineering student** with 
 I'm always looking for opportunities to collaborate on projects, share ideas, and learn together. Feel free to reach out to me:
 
 - 📫 [Email](mailto:ajeem5373@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ajeem-khan-k-29b610258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
